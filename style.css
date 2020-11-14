@@ -61,11 +61,6 @@ a {
   overflow: hidden;
 }
 
-
-
-
-
-
 .main-item:hover .main-item__image {
   transform: scale(1.1);
 }

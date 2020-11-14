@@ -12,6 +12,16 @@ window.addEventListener('DOMContentLoaded', () => {
       title: 'Todo',
       URL: 'https://laughingthroll.github.io/todo/',
       image: 'images/content/Todo.png'
+    },
+    {
+      title: 'FixHouse',
+      URL: 'https://laughingthroll.github.io/FixHouse/dist/index.html',
+      image: 'images/content/FixHouse.png'
+    },
+    {
+      title: 'Rubico',
+      URL: 'https://laughingthroll.github.io/Rubico/',
+      image: 'images/content/Rubico.png'
     }
 
 
