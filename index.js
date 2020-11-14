@@ -7,7 +7,11 @@ window.addEventListener('DOMContentLoaded', () => {
       title: 'Juice',
       URL: 'https://laughingthroll.github.io/Juice/dist/index.html',
       image: 'images/content/Juice.png'
-
+    },
+    {
+      title: 'Todo',
+      URL: 'https://laughingthroll.github.io/todo/',
+      image: 'images/content/Todo.png'
     }
 
 
