@@ -5,7 +5,6 @@
 }
 
 body {
-  padding: 10px;
   margin: 0;
   height: 100vh;
   background-color: #101629;
@@ -15,6 +14,7 @@ body {
   max-width: 1920px;
   margin: 0 auto;
 }
+
 
 h2 {
   margin: 0;
@@ -29,6 +29,7 @@ img {
 a {
   text-decoration: none;
 }
+
 .span-animation-border {
   position: relative;
   display: block;
@@ -46,6 +47,12 @@ a {
   transition: all .5s ease-out;
 }
 
+.main-title {
+  font-size: 50px;
+  line-height: 50px;
+  color: #e2e2ee;
+  text-align: center;
+}
 
 .main-menu {
   display: flex;
@@ -80,7 +87,7 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(34, 36, 41, 0.5);
   width: 100%;
   height: 100%;
   z-index: 1;
